@@ -1,0 +1,30 @@
+opencv-python
+numpy
+ultralytics
+supervision
+scikit-learn
+pandas
+pymongo
+dnspython
+# requirements.txt
+
+# FastAPI and related
+fastapi==0.108.0
+uvicorn[standard]==0.25.0
+python-multipart==0.0.6
+websockets==12.0
+
+# Computer Vision and ML
+opencv-python==4.9.0.80
+numpy==1.24.3
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0  # For YOLO
+
+# Database
+pymongo==4.6.1
+
+# Other utilities
+aiofiles==23.2.1
+pydantic==2.5.3
+python-dotenv==1.0.0

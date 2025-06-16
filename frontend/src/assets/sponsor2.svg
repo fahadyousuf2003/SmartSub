@@ -1,0 +1,9 @@
+<svg width="150" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 60">
+  <!-- Adidas logo -->
+  <g transform="translate(25,5)">
+    <!-- Three stripes -->
+    <path d="M0 40 L30 10 L60 40" fill="#000" />
+    <path d="M35 40 L50 25 L65 40" fill="#000" />
+    <path d="M70 40 L85 25 L100 40" fill="#000" />
+  </g>
+</svg> 

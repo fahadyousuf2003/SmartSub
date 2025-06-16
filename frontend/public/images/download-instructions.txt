@@ -1,0 +1,31 @@
+Download these images and save them to the public/images folder with the specified filenames:
+
+1. Nike Logo: 
+   URL: https://1000logos.net/wp-content/uploads/2021/11/Nike-Logo.png
+   Save as: nike.png
+
+2. Adidas Logo:
+   URL: https://1000logos.net/wp-content/uploads/2016/10/Adidas-logo.png
+   Save as: adidas.png
+
+3. Puma Logo:
+   URL: https://1000logos.net/wp-content/uploads/2017/05/PUMA-logo.png
+   Save as: puma.png
+
+4. Under Armour Logo:
+   URL: https://1000logos.net/wp-content/uploads/2021/04/Under-Armour-logo.png
+   Save as: under-armour.png
+
+Or use these simple black versions:
+
+1. Nike Logo: 
+   URL: https://www.freepnglogos.com/uploads/nike-logo-png/nike-logo-png-nike-symbol-meaning-history-slogan-22.png
+   
+2. Adidas Logo:
+   URL: https://www.freepnglogos.com/uploads/adidas-logo-png/adidas-logo-photography-logos-icon-2.png
+   
+3. Puma Logo:
+   URL: https://www.freepnglogos.com/uploads/puma-logo-png/puma-logo-png-puma-logos-brands-logotypes-0.png
+   
+4. Under Armour Logo:
+   URL: https://www.freepnglogos.com/uploads/under-armour-logo-png/under-armour-logo-transparent-21.png 

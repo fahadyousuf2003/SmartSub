@@ -1,0 +1,9 @@
+<svg width="150" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 60">
+  <!-- Under Armour logo -->
+  <g transform="translate(25,10)">
+    <!-- U shape -->
+    <path d="M0 0 L0 25 C0 35, 25 45, 50 25 L50 0" fill="none" stroke="#000" stroke-width="7" stroke-linejoin="round" stroke-linecap="square" />
+    <!-- A shape -->
+    <path d="M75 0 L60 40 L90 40 Z" fill="#000" />
+  </g>
+</svg> 
